@@ -1,0 +1,5 @@
+{
+  "name": "OTAX Dashboard",
+  "description": "A complex, real-time security and utility dashboard featuring OSINT tools, AI chat, QR code generation, and Islamic utilities with a sleek dark theme.",
+  "requestFramePermissions": []
+}
